@@ -44,3 +44,34 @@ return (x-1) ;
 }
 
 }
+
+## The Circuit :
+
+![image](https://user-images.githubusercontent.com/86561124/164186348-9eda0da7-9637-4a08-98c8-1c35e6d44ce7.png)
+![image](https://user-images.githubusercontent.com/86561124/164186421-8d1e8e2b-0734-4216-93f4-f1915d798749.png)
+
+
+## The Subcircuits :
+
+### 5 Bit Counter :
+
+![image](https://user-images.githubusercontent.com/86561124/164186564-7c24321a-a0c1-420d-b590-9effc1e94f21.png)
+
+### 5 Bit Register ;
+
+![image](https://user-images.githubusercontent.com/86561124/164186736-3b0df664-d492-48d4-a838-9b1927f430ee.png)
+
+### 5 Bit Multiplexer :
+
+![image](https://user-images.githubusercontent.com/86561124/164186831-1a628aac-d7c3-4b06-bd3c-feec6042ad4d.png)
+
+### 5 Bit Multiplier :
+
+![image](https://user-images.githubusercontent.com/86561124/164186968-c299a90c-adac-4150-aa4d-60c19903deab.png)
+
+### 10 Bit Comparator :
+
+![image](https://user-images.githubusercontent.com/86561124/164187064-ce9e675f-5bc1-4232-9bd8-2e9f5e708c0d.png)
+
+
+
