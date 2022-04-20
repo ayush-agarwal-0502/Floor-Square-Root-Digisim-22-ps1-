@@ -26,15 +26,21 @@ In this , we compare the number with all possible solutions , and then return th
 In this , we run a counter starting from 0 , square the number ( using a multiplier ofc) , and then compared to the input number . If it is exactly equal then we return the number in the counter , and if the square is more then we return one less than the value in the counter .
 
 int n ; // n is the input value 
+
 int x ; // x is the output value 
+
 for(x=0; x<n ; x++){
 
 if(n==(x*x)){
+
 return x;
+
 }
 
 else if( n>(x*x) ) {
+
 return (x-1) ;
+
 }
 
 }
